@@ -26,7 +26,7 @@ A fully responsive, multi-page website for a fictional Dubai-based coffee shop t
 ### Tip Calculator — Mini Project
 A simple, responsive tip calculator that splits a bill across multiple people and calculates the tip instantly.
 
-**[🔗 Live Site](https://yomnaabdeltawab04.github.io/tip-calculator)** · **[📁 GitHub Repo](https://github.com/yomnaabdeltawab04/tip-calculator)**
+**[Live Site](https://yomnaabdeltawab04.github.io/tip-calculator)** · **[GitHub Repo](https://github.com/yomnaabdeltawab04/tip-calculator)**
 
 **Tech Stack:** HTML5, CSS3, Vanilla JavaScript
 
