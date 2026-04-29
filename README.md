@@ -1,15 +1,15 @@
-# Hi, I'm Yomna Abdeltawab 👋
+# Hi, I'm Yomna Abdeltawab
 
 I'm a web development student with a passion for building clean, user-friendly websites. I focus on frontend development — turning ideas into real, deployed products using HTML, CSS, and JavaScript.
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### ☕ Dallah & Co. — Café Website
+### Dallah & Co. — Café Website
 A fully responsive, multi-page website for a fictional Dubai-based coffee shop that blends Arabic coffee traditions with modern café culture.
 
-**[🔗 Live Site](https://yomnaabdeltawab04.github.io/dallah-co)** · **[📁 GitHub Repo](https://github.com/yomnaabdeltawab04/dallah-co)**
+**[Live Site](https://yomnaabdeltawab04.github.io/dallah-co)** · **[GitHub Repo](https://github.com/yomnaabdeltawab04/dallah-co)**
 
 **Tech Stack:** HTML5, CSS3, Vanilla JavaScript
 
@@ -23,7 +23,7 @@ A fully responsive, multi-page website for a fictional Dubai-based coffee shop t
 
 ---
 
-### 💰 Tip Calculator — Mini Project
+### Tip Calculator — Mini Project
 A simple, responsive tip calculator that splits a bill across multiple people and calculates the tip instantly.
 
 **[🔗 Live Site](https://yomnaabdeltawab04.github.io/tip-calculator)** · **[📁 GitHub Repo](https://github.com/yomnaabdeltawab04/tip-calculator)**
@@ -40,7 +40,7 @@ A simple, responsive tip calculator that splits a bill across multiple people an
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 **Languages:** HTML5, CSS3, JavaScript  
 **Concepts:** Responsive Design, Flexbox, CSS Grid, DOM Manipulation  
@@ -48,7 +48,7 @@ A simple, responsive tip calculator that splits a bill across multiple people an
 
 ---
 
-## 📫 Contact
+## Contact
 
 - **GitHub:** [github.com/yomnaabdeltawab04](https://github.com/yomnaabdeltawab04)
 
