@@ -1,6 +1,6 @@
 # Hi, I'm Yomna Abdeltawab
 
-I'm a web development student with a passion for building clean, user-friendly websites. I focus on frontend development — turning ideas into real, deployed products using HTML, CSS, and JavaScript.
+I'm a web development student with a passion for building clean, user-friendly websites. I focus on frontend development, turning ideas into real, deployed products using HTML, CSS, and JavaScript.
 
 ---
 
